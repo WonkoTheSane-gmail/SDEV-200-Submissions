@@ -24,4 +24,10 @@ public class DogTriathlonParticipant {
         avg = (double) total / NUM_EVENTS;
         totalCumulativeScore += total;
     }
+
+    public void display() {
+        System.out.println(name + " participated in " + NUM_EVENTS + " events and has an average score of " + avg);
+        System.out.println(" " + name + " has a total score of " + total + " bringing the total cumulative score to " + totalCumulativeScore);
+    }
+
 }
