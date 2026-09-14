@@ -1,3 +1,7 @@
+// FileName SpaService.java
+// Written by: Jonathon Meyer
+// Written on: 09/09/2026
+
 public class SpaService {
     private String serviceDescription;
     private double price;
