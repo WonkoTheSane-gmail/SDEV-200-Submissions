@@ -1,3 +1,7 @@
+// FileName TestSandwich.java
+// Written by: Jonathon Meyer
+// Written on: 09/15/2026
+
 import java.util.Scanner;
 
 public class TestSandwich

@@ -1,3 +1,7 @@
+// FileName Sandwich.java
+// Written by: Jonathon Meyer
+// Written on: 09/15/2026
+
 public class Sandwich
 {
     private String mainIngredient;
