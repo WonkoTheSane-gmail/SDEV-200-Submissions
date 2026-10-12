@@ -1,7 +1,6 @@
 {
     "java.project.sourcePaths": [
         "ch01",
-        "ch1",
         "ch01/You Do It",
         "ch01/ch1-ex7",
         "ch02",
@@ -19,6 +18,7 @@
         "ch06/You Do It",
         "ch07",
         "ch07/You Do It",
+        "ch07/ch7-ex2",
         "ch08",
         "ch08/You Do It",
         "ch09",
